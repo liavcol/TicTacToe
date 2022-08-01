@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 969621893
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: handdrawn
+      Dependencies: {}

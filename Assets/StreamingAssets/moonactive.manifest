@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2687453637
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9de5e066bac2e3d0cdde1df750747cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/Moon Active/XMarkSprite.png
+- Assets/Textures/Moon Active/BackgroundSprite.png
+- Assets/Textures/Moon Active/OMarkSprite.png
+Dependencies: []

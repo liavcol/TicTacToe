@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4187592401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72c4287ce6e9d181dbe8c03b87ecde8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/Hand Drawn/BackgroundSprite.jpg
+- Assets/Textures/Hand Drawn/XMarkSprite.png
+- Assets/Textures/Hand Drawn/OMarkSprite.png
+Dependencies: []

@@ -1,0 +1,8 @@
+{
+  "name": "com.liav.tictactoe",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "unityRelease": "36f1",
+  "displayName": "Tic Tac Toe",
+  "description": "Assignment submitted to Moon Active."
+}
